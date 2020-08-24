@@ -5,7 +5,7 @@
  1. the Rubrics used for the grading
  2. most frequent feedback and comments relevant to each Rubric
 
-Click the GradingTool.exe to start (a warnign may comeup because the .exe is not yet certified by Microscoft).  The GradingTool GUI will always stay on the top of the desktop.  You can now review PDFS/WORD documents etc.., generating feedback by clicking the relevant check button next to each relevant comment/feedback.  Each time you "Accept & Copy" it will add the comments to the text box and to the clipboard.  You can directly paste into the document to provide comments, or EDIT the text box and then select the "copy" button, which will copy the edited comments.
+Click the GradingTool.exe to start (a warning may come up because the .exe is not yet certified by Microscoft).  The GradingTool GUI will always stay on the top of the desktop.  You can now review PDF/WORD documents etc.., generating feedback by clicking the relevant check button next to each relevant comment/feedback.  Each time you "Accept & Copy" it will add the comments to the text box and to the clipboard.  You can directly paste into the document to provide comments, or EDIT the text box and then select the "copy" button, which will copy the edited comments.
 
 ## Motivation
  <img src="images/UWA-Full-Ver-CMYK3.png" alt="UWA logo"  align="right" width="150"/><br>

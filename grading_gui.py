@@ -14,7 +14,7 @@ import yaml
  
 
 __author__="Adrian Keating(UWA)"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 selections=[]
 
 def allstates():
@@ -63,7 +63,7 @@ class Checkbar(tk.Frame):
          var = tk.IntVar(value=flags[len(picks)-1-index])
          starti=0
          endi=0
-         NN=50
+         NN=int(w/4)
          newpick=''
          while endi<len(pick):
              endi=starti+NN
@@ -140,10 +140,10 @@ class StartEndAppFrame(tk.Frame):
         #GradingProgress.start_progressbar()
         #GradingProgress.update()
         bd5scaled=int(5*scale)
-        bd12scaled=int(12*scale)
+        bd12scaled=int(8*scale)
         width20scaled=int(20*scale)
-        width5scaled=int(10*scale)
-        self.btn = tk.Button(frame1, text='Accept&Copy',bd=bd12scaled, width=width5scaled,height=int(scale), relief="raised",command=setText)
+        width5scaled=int(scale*10)
+        self.btn = tk.Button(frame1, text='Accept&Copy',bd=bd12scaled, width=width5scaled*2,height=int(scale), relief="raised",command=setText)
         self.btn.pack({"side": "left"},expand=True)
         self.btn.pack(pady=1)
         #print(hlpbtnimg)
