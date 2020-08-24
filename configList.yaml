@@ -1,0 +1,10 @@
+constants:
+# Defaults
+  Rubric: ["Guidelines","Methods","Data_analysis","Discussion","Conclusion","Background_Sources","Presentation"]
+  Guidelines: ["Unnecessary repeatition of information","Overlength, beyond page limit","Safe operating procedures were not adhered to"]
+  Methods: ["The number of the experiment was not identified","Information about the process performed was incomplete","No information about the number of each samples measured","Missing staments of analysis methods used ","Unnecessary restatement of the procedures publihsed in the guidelines"]
+  Data_analysis: ["The relevant equations have been mis-applied.","Statistical analysis is required"," The interpretation of the data is incorrect","There is insufficient investigation to understand the source errors"]
+  Discussion: ["You must compared to manufactueres specifications","A comparision to the literature is missing","A critical assessment of the findings is missing"]
+  Presentation: ["Page numbers are missing","Captions are missing","Caption Descriptions are missing","Caption Descriptions are too short and provide little value.","The font size in the document is not consistent"]
+  Conclusion: ["Conclusions must be Quantitative.","Conclusions must not introduce new information.","Conclusions must be a clear summary of the work done.","Conclusions should not be general statements."]
+  Background_Sources: ["Proper referencing is required.","References are missing.","References to the current Literature is missing from the references","References in the REFERENCES section are not actually used in the report","Reference to the outlier rejection method is missing"]
