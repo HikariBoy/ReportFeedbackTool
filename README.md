@@ -15,7 +15,9 @@ Click the GradingTool.exe to start (a warning may come up because the .exe is no
    <p></p><span> <figcaption > <I><b>Figure 1:</b>Example configList.yaml file defining the Rubric and sentences and the corresponding view in the GradingTool </I> </figcaption> </span><br>
 
   As shown in the Figure, this Rubric list becomes a set of radio buttons at the top when the GradingTool.exe program runs, only ONE (1) of which can be selected at a time.  When a radio button is selected, as shown in Figure 2  Step#1, the relevant list of feedback sentences is shown as a set of check boxes and as many check boxes can be selected as desired based on the feedback to the learner.  When the appropriate boxes are selected under that Rubric heading, Selecting "Accept&Copy" will place the selected Rubric heading and selected sentences into the editable text area AND to the CLIPBOARD.  You can subsequently edit the text in the editable text box at the bottom of the GradingTool Graphical User Interface.  Once edited, select the "Copy" button to copy to the clip board and from there, the comments can be pasted in the document to provide feedback to the learner.  
-
+## Updates
+Version 0.1.1 : Rescaled the gui based on the proper dpi reading of displays
+Version 0.1.2 : Adeded 'Fontsize' parameter to the [configLsit.yaml](configList.yaml) file.  If absent the font default to 9 point.  the screen size of the gui will also rescale
 
   <span><div style="float: left  color: blue font-style: italic">
   <img src="images/STEP1andSTEP2.png" alt="Steps 1 and 2"  align="right" width="500"/><br></div> </span>

@@ -1,5 +1,6 @@
 constants:
 # Defaults
+  Fontsize: 9
   Rubric: ["Guidelines","Methods","Data_analysis","Discussion","Conclusion","Background_Sources","Presentation"]
   Guidelines: ["Unnecessary repeatition of information","Overlength, beyond page limit","Safe operating procedures were not adhered to"]
   Methods: ["The number of the experiment was not identified","Information about the process performed was incomplete","No information about the number of each samples measured","Missing staments of analysis methods used ","Unnecessary restatement of the procedures publihsed in the guidelines"]
